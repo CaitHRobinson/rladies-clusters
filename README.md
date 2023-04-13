@@ -10,3 +10,5 @@ The tutorial builds on an established tradition of [geodemographic research in g
 **Access the practical exercise:** The pdf guide is available here.
 
 **Download the accompanying dataset:** The geopackage is available from [dropbox](https://www.dropbox.com/scl/fo/ujurxjv0c1bvkwygp1j2k/h?dl=0&rlkey=se0i1idjz08tgq9vfhbxsk9es).
+
+![cluster_jpeg](https://user-images.githubusercontent.com/57355504/231815654-dac2767c-2e14-46cf-aa48-ab6e7b0e7714.jpg)
